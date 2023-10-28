@@ -7,7 +7,6 @@ import java.awt.event.KeyEvent;
 //慕山
 public class ClickScript {
 
-
     public static void main(String[] args) throws AWTException, InterruptedException {
         //开启后的反应时间
         Thread.sleep(3000);
