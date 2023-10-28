@@ -8,6 +8,7 @@ import org.jnativehook.keyboard.NativeKeyListener;
 import java.awt.*;
 import java.awt.event.InputEvent;
 
+
 //原神
 public class ClickScript6 {
     static volatile boolean isRunning = false;
